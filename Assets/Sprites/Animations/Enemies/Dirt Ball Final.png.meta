@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 69211d58d7b07924882035790ab0581e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dirt Ball Final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284a4d214ed4ce4e87a2ad9febdc509
+      internalID: -2084244039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e1d77ee2182e4580cd839b76695a6
+      internalID: 1239602172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c37876a03fb4b4eb93ef198ab5b328
+      internalID: 349184228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f44937e8377446a3bf3f046b92d1c
+      internalID: -1532223969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99e6145ed258044ad8d7a54ea3d33d
+      internalID: 137771477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ff75c8b9cb8c42ad3cfd2ddcea323
+      internalID: 1201805001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788be2bb66dfa244fa17ab94685bfa60
+      internalID: 1990049592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_7
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9356e9d0beda84d9769e759765e386
+      internalID: 1835844315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_8
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ec5c4751aa8e45921dcdee1233c88
+      internalID: -186321149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_9
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f153b678bc6124f8e16c47f4729643
+      internalID: 36651250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_10
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b97539e024164b8ddf386e2e7f73f
+      internalID: -365956181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_11
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c910643da1a4e49924587850ae87fe
+      internalID: 2116027700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_12
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376aa5677171d534db68f3915e28fa83
+      internalID: -1897983300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_13
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e00edd53d0e904e9c38fb8ba27862c
+      internalID: 366035605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_14
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783862fd711770a48b9b66dd6ca5c34e
+      internalID: 1573980370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_15
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6de8a7ddfe46048a283c5d81625ef2
+      internalID: -1606529523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_16
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817555c891745c4e9e40c2dd3b941bb
+      internalID: 847411425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_17
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5395dacbdc52130439d6763e2a273997
+      internalID: -516071695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_18
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2945bd8426d18646952bc1fa7d8e8ed
+      internalID: -1333208148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_19
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38fd552e908ee749bbb8af311e1a1af
+      internalID: -724503467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_20
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270aa45de7588454fa09efaf648a63d9
+      internalID: 740050889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_21
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987d0df1e814df45bd453cbf48300fe
+      internalID: -2003051329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_22
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ed6872cda767409d9f5afde9b509f
+      internalID: 523336404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_23
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ced23be229ed145a849f6dbbdaf040
+      internalID: 1989898119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_24
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d224c880970c3c4b9120a360897efe6
+      internalID: -455263863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_25
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995487a4e5987084ab7ff22e983bacab
+      internalID: 228630568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_26
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad88bb6d6aaab0642845f6aae78c6a41
+      internalID: -1279406064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_27
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca26d1ef0919b44eab4077076f195f8
+      internalID: -356863186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Ball Final_28
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 0
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8782609, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb774c6595e1f84682b9a7c8fbfa1ad
+      internalID: 1677372552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dirt Ball Final_0: -2084244039
+      Dirt Ball Final_1: 1239602172
+      Dirt Ball Final_10: -365956181
+      Dirt Ball Final_11: 2116027700
+      Dirt Ball Final_12: -1897983300
+      Dirt Ball Final_13: 366035605
+      Dirt Ball Final_14: 1573980370
+      Dirt Ball Final_15: -1606529523
+      Dirt Ball Final_16: 847411425
+      Dirt Ball Final_17: -516071695
+      Dirt Ball Final_18: -1333208148
+      Dirt Ball Final_19: -724503467
+      Dirt Ball Final_2: 349184228
+      Dirt Ball Final_20: 740050889
+      Dirt Ball Final_21: -2003051329
+      Dirt Ball Final_22: 523336404
+      Dirt Ball Final_23: 1989898119
+      Dirt Ball Final_24: -455263863
+      Dirt Ball Final_25: 228630568
+      Dirt Ball Final_26: -1279406064
+      Dirt Ball Final_27: -356863186
+      Dirt Ball Final_28: 1677372552
+      Dirt Ball Final_3: -1532223969
+      Dirt Ball Final_4: 137771477
+      Dirt Ball Final_5: 1201805001
+      Dirt Ball Final_6: 1990049592
+      Dirt Ball Final_7: 1835844315
+      Dirt Ball Final_8: -186321149
+      Dirt Ball Final_9: 36651250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0254b9ce95f9d41a713166ed2612d2, type: 3}
+  m_Name: 0 - Tutorial Level
+  m_EditorClassIdentifier: 
+  TilemapObject: {fileID: 6097444574032259203, guid: 71ee90ffca7e6a04da87edbd36f341f5, type: 3}
+  NextLevel: {fileID: 11400000, guid: 83af51b97d4c3bf4e983f2c6c361af19, type: 2}
+  Music: {fileID: 8300000, guid: 4449821877add1742a485f2865042274, type: 3}
+  MusicVolume: 0.55
+  _janitorSpawnLocations:
+  - {x: 1, y: 8}
+  - {x: 1, y: 6}
+  - {x: 1, y: 4}
+  - {x: 1, y: 2}
+  _enemySpawnLocations:
+  - {x: 16, y: 8}
+  - {x: 16, y: 2}
+  _cameraStartPosition: {x: 0, y: 0}
+  _enemyTypes: 0400000004000000
+  _enemySpawnLevels: 0100000001000000
+  levelTextSpeaker:
+  - Act 1 - The Incident
+  - ' '
+  - ' '
+  - ' '
+  - Administrator A
+  - Administrator A
+  - ' '
+  - Administrator A
+  - ' '
+  - ' '
+  - ' '
+  levelText:
+  - Click arrow to continue.
+  - "In an email sent to students and their guardians:\r\n\r\nLakes Ocean students,\r\n\r\nLakes
+    Ocean High School has been overrun by messes of all shapes and sizes. Papers
+    have been strewn about everywhere, food items have collected into large clumps,
+    slushies have been spilled, huge clumps of dirt have conglomerated, and many
+    more messes have been sighted. In concern for the student body\u2019s wellbeing,
+    school has been canceled for the foreseeable future, that is, until the school
+    can be purged of all its unsightly new decor.\r\n\r\nSchool Administrator A\r"
+  - "Similarly, in an email sent to staff members:\r\n\r\nTo whom it may concern.
+    \r\n\r\nIn light of recent events, it must be made clear how the staff at Lakes
+    Ocean High School must respond. \n\nIt has been decided that staff must still
+    report to school on schedule. Failure to report to duty will result in the same
+    consequences as it would on a typical school day.\r\n\r\nRegards,\r\nSchool Administrator
+    A\r"
+  - "The next day\u2026\r\n\r\nLooking glum, the staff at Lakes Ocean High School
+    enter the school building. After all staff members have arrived, the administrator
+    who sent out emails--School Administrator A--holds a meeting in the auditorium,
+    one of the only rooms in the school unaffected by the messes.\r"
+  - "\u201CNow, I know that the school is a mess right now, but I hope that our team
+    here at Lakes Ocean can bear with it until our custodial staff deals with the
+    messes outside of this room.\u201D"
+  - "\u201CIt would be unreasonable to order all of the custodians to immediately
+    start cleaning the leagues of messes inside the school, so I have arranged for
+    a small sample of the messes to be prepared and sealed inside of a cut-off room
+    from the rest of the school.\u201D\r"
+  - "Saying this, School Administrator A clicks a button on the remote they were
+    holding, and a low rumbling begins to emanate throughout the room. To the shock
+    of everyone in the auditorium, a hidden staircase begins to open in the floor
+    right before their eyes.\r"
+  - "\u201CNow go. I wish you all the best of luck. Don\u2019t get yourselves covered
+    in the messes down there.\u201D\r"
+  - "Sharing glances amongst themselves, the custodial staff musters up the courage
+    to enter the now-exposed stairwell. As they walk down, the hatch closes above
+    them, but, before it closes all the way, they hear the door to the auditorium
+    open. It would seem a certain fashionably late English teacher has arrived for
+    the meeting\u2026\r"
+  - 'Going deeper down the stairs, the janitors arrive in an open space: A bright
+    white room with blank walls and floors. Two giant globs of what looks to be various
+    lunch foods sit on the far side of the room.
+
+'
+  - '*slurmp* *squish* The globs spring to life, startling the custodians, who now
+    realized that the threat of the messes was much greater than originally anticipated,
+    given that the messes in question can move.
+
+
+    Preparing themselves, the custodians
+    brandish their cleaning materials...'

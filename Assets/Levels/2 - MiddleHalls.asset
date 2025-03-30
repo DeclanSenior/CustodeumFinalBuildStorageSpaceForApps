@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0254b9ce95f9d41a713166ed2612d2, type: 3}
+  m_Name: 2 - MiddleHalls
+  m_EditorClassIdentifier: 
+  TilemapObject: {fileID: 7657718506295918488, guid: a47114cd967a037409f88dce369a0b3d, type: 3}
+  NextLevel: {fileID: 11400000, guid: de9f17b28ad4a3041a6a6503cf32f278, type: 2}
+  Music: {fileID: 8300000, guid: 462da065328442a448a925b8b69d53ac, type: 3}
+  MusicVolume: 0.7
+  _janitorSpawnLocations:
+  - {x: 50, y: -7}
+  - {x: 52, y: -5}
+  - {x: 52, y: -7}
+  - {x: 50, y: -5}
+  _enemySpawnLocations:
+  - {x: 1, y: 18}
+  - {x: 1, y: 9}
+  - {x: -8, y: 9}
+  - {x: 1, y: 0}
+  - {x: 1, y: -6}
+  - {x: 5, y: -5}
+  - {x: 5, y: -7}
+  - {x: 1, y: -15}
+  - {x: -8, y: -21}
+  - {x: 1, y: -18}
+  - {x: 1, y: -21}
+  - {x: 15, y: -21}
+  - {x: 11, y: -21}
+  - {x: 29, y: -21}
+  - {x: 46, y: -21}
+  - {x: 49, y: -21}
+  - {x: 43, y: -6}
+  - {x: 47, y: 3}
+  _cameraStartPosition: {x: 51, y: 6}
+  _enemyTypes: 060000000400000005000000070000000800000004000000050000000700000004000000070000000500000008000000050000000800000006000000040000000500000004000000
+  _enemySpawnLevels: 040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000
+  levelTextSpeaker:
+  - Act 3 - Halls
+  - Administrator A
+  - ' '
+  - ' '
+  - ' '
+  levelText:
+  - ' '
+  - "\u201CGood job. Now, after taking a breather, your next location will be the
+    main halls of the school--from here to the Gold and Blue Room near the gym.\u201D\r\r"
+  - Taking Administrator A up on their offer, the custodians take a well-deserved
+    rest for a few minutes. Once done, they all reconvene and pick up their equipment.
+  - "Collectively prepare themselves, the janitors look down the hall. They don't
+    spot any messes, so they reluctantly set off.\r"
+  - 'At the moment they make it halfway down the hall, in front of the library, they
+    hear movement coming from various locations around them.
+
+
+    They were surrounded
+    on both sides by messes, these ones somehow vaguely messier looking than before.
+
+
+    Once
+    more, the janitors ready themselves for another grueling job...'

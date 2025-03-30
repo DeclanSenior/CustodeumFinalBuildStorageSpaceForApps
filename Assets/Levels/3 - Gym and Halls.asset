@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0254b9ce95f9d41a713166ed2612d2, type: 3}
+  m_Name: 3 - Gym and Halls
+  m_EditorClassIdentifier: 
+  TilemapObject: {fileID: 7657718506295918488, guid: 2f927f5dadaf11641bb42f410459b4e9, type: 3}
+  NextLevel: {fileID: 0}
+  Music: {fileID: 8300000, guid: 12bf2f11bffa5474db1a14bb3082f1a3, type: 3}
+  MusicVolume: 0.7
+  _janitorSpawnLocations:
+  - {x: 5, y: -15}
+  - {x: -5, y: -29}
+  - {x: 5, y: -16}
+  - {x: -6, y: -29}
+  _enemySpawnLocations:
+  - {x: -9, y: 1}
+  - {x: -6, y: 1}
+  - {x: 0, y: 2}
+  - {x: 0, y: 0}
+  - {x: 9, y: 1}
+  - {x: -5, y: -9}
+  - {x: -5, y: -18}
+  - {x: 0, y: -16}
+  - {x: 7, y: -32}
+  - {x: 26, y: -32}
+  - {x: 8, y: -25}
+  - {x: 10, y: -20}
+  - {x: 22, y: -30}
+  - {x: 17, y: -20}
+  - {x: 19, y: -14}
+  - {x: 11, y: -14}
+  - {x: 22, y: -23}
+  - {x: 14, y: -10}
+  - {x: 7, y: -13}
+  - {x: 8, y: -20}
+  _cameraStartPosition: {x: -0.25, y: -22.25}
+  _enemyTypes: 0600000004000000050000000700000008000000040000000500000007000000080000000600000004000000040000000500000007000000070000000800000004000000040000000500000008000000
+  _enemySpawnLevels: 0600000006000000060000000600000006000000060000000600000006000000060000000600000006000000060000000600000006000000060000000600000006000000060000000600000006000000
+  levelTextSpeaker:
+  - Final Act - Gymnasium
+  - Administrator A
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  levelText:
+  - ' '
+  - "\u201COnly one more location. Once you\u2019ve cleaned it up, the school will
+    be back to normal and you can\u2026well, you can return to work as usual. Let\u2019s
+    get this wrapped up.\u201D\r"
+  - The janitors frown at the uninspiring lack of any meaningful sort of acknowledgement
+    from Administrator A, but they prepare to get to work, regardless.
+  - Entering the foyer for the gym, nothing seems amiss, much like the halls, but
+    the custodians keep their guards up, expecting another ambush.
+  - However, it would seem that those worries were unfounded. The janitors look for
+    Administrator A to ask where the messes were, but they had already left to do
+    something else.
+  - Knowing that things couldn't be so easy, the group decides to split up to look
+    inside and around the gym, respectively.
+  - Two of the janitors go down the locker room hall, and the other two enter the
+    gym itself (both to no avail).
+  - Unfortunately, that is where the janitors' luck had run out. Both groups simultaneously
+    hear the unmistakable squishing of the lunch slimes, the flaps of paper cranes,
+    and several other concerning sounds as they are surrounded.
+  - For what would hopefully be final time, the janitors crack their knuckles and
+    begin cleaning...

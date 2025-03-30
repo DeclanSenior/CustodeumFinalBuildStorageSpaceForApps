@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d7403bc7394af6042909094815da1105
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - miniHealthBarGreen: {fileID: 515491941603518040, guid: b29f884ba1a750b418ea9ed616bcbb25, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

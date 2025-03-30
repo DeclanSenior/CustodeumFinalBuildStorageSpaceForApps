@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0254b9ce95f9d41a713166ed2612d2, type: 3}
+  m_Name: 6 - Auditorium, Halls, Band, etc.
+  m_EditorClassIdentifier: 
+  TilemapObject: {fileID: 7657718506295918488, guid: ae9da21fed7636f429e344d5a8928393, type: 3}
+  NextLevel: {fileID: 11400000, guid: 83af51b97d4c3bf4e983f2c6c361af19, type: 2}
+  _janitorSpawnLocations: []
+  _enemySpawnLocations:
+  - {x: 16, y: 8}
+  _enemyTypes: 04000000
+  _enemySpawnLevels: 010000000100000001000000
+  _enemySpawnRounds: 010000000100000001000000
